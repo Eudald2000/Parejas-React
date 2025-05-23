@@ -5,7 +5,6 @@
 
 Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡Demuestra tu memoria y completa el juego en el menor tiempo posible!
 
-
 ## ✨ Características
 
 - 20 cartas con personajes de anime
@@ -16,31 +15,75 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 
 ## 🚀 Cómo Jugar
 
-### Demo en Vivo
-
 ### Ejecutar Localmente
 
-1. Clona el repositorio:
+#### **Opción 1: Usando Git** (recomendado para desarrolladores)
 
-   ```bash
+1. **Entra al directorio del proyecto**:
+
+  ```bash
     git clone https://github.com/Eudald2000/Parejas-React.git
+  ```
 
-   ```
+2. **Entra al directorio del proyecto**:
 
-2. Clona el repositorio:
-
-   ```bash
+  ```bash
     cd Parejas-React
+  ```
+
+3. **Instala las dependencias**
+  ```bash
     npm install
+  ```
 
-   ```
-
-3. Clona el repositorio:
-
-   ```bash
+4. **inicia servidor de desarrollo**
+  ```bash
     npm run dev
+  ```
 
-   ```
+5. **Abre la aplicacion en tu navegador**
+  ```bash
+    http://localhost:5173
+  ```
 
-4. Abre en tu navegador:
-   http://localhost:5173
+#### **Opción 2: Descargando el ZIP** (Para usuarios SIN GIT)
+  
+  1. **Descarga el codigo fuente**
+
+    - Visita el repositorio en GitHub
+
+    - Haz clic en el botón verde "Code"
+
+    - Selecciona "Download ZIP"
+
+  2. **Descomprime el archivo**
+
+    - Extrae el contenido del ZIP en una carpeta de tu elección
+
+  3. **Entra al directorio del proyecto**:
+
+  ```bash
+    cd Parejas-React-main
+  ```
+
+  4. **Instala las dependencias**
+  ```bash
+    npm install
+  ```
+
+  5. **inicia servidor de desarrollo**
+  ```bash
+    npm run dev
+  ```
+
+  6. **Abre la aplicacion en tu navegador**
+  ```bash
+    http://localhost:5173
+  ```
+
+## 📝 Notas adicionales
+
+  **Si tienes problemas con las dependencias, prueba:**
+  ```bash
+    npm ci
+  ```
