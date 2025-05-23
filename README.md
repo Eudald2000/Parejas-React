@@ -50,8 +50,9 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
   
   1. **Descarga el codigo fuente**
 
-    - Visita el repositorio en GitHub
-
+    - Visita el repositorio en GitHub: 
+  [Respositorio de gitHub](https://github.com/Eudald2000/Parejas-React) 
+  
     - Haz clic en el botón verde "Code"
 
     - Selecciona "Download ZIP"
