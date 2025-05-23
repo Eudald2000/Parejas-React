@@ -13,6 +13,19 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 - Diseño responsive
 - Reinicio automático del juego
 
+## ⚙️ Requisitos Previos
+### Instalación Única (Para cualquier proyecto)
+1. **Instala Node.js** (incluye npm) (en caso de que no lo tengas ya):
+   - [Descargar Node.js LTS](https://nodejs.org/) (v18 o superior)
+   - Instalación sencilla: Ejecuta el instalador y sigue los pasos
+   - *Solo necesitas hacer esto una vez en tu computadora*
+2. **Asegurarnos de que esta intalado, copia y pega estos comandos en tu terminal**
+
+    ```bash
+      node --version
+      npm --version
+    ```
+
 ## 🚀 Cómo Jugar
 
 ### Ejecutar Localmente
@@ -67,12 +80,13 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
     cd Parejas-React-main
   ```
 
-  4. **Instala las dependencias**
+  4. **Instala las dependencias, copia y ejecuta el siguiente comando desde tu terminal**
+  (Asegurate que la direccion del proyecto es /Parejas-React-main)
   ```bash
     npm install
   ```
 
-  5. **inicia servidor de desarrollo**
+  5. **Inicia servidor de desarrollo copia y ejecuta el siguiente comando**
   ```bash
     npm run dev
   ```
@@ -84,7 +98,7 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 
 ## 📝 Notas adicionales
 
-  **Si tienes problemas con las dependencias, prueba:**
+  **Si tienes problemas con las dependencias, prueba a ejecutal el siguiente comando en la terminal:**
   ```bash
     npm ci
   ```
