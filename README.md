@@ -61,7 +61,7 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 
     - Extrae el contenido del ZIP en una carpeta de tu elección
 
-  3. **Entra al directorio del proyecto**:
+  3. **Desde la terminal de tu editor de codigo entra al directorio del proyecto**:
 
   ```bash
     cd Parejas-React-main
