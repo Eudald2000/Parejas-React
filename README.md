@@ -18,9 +18,6 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 
 ### Demo en Vivo
 
-Juega directamente en tu navegador:  
-🌐 [https://eudald2000.github.io/Parejas-React](https://eudald2000.github.io/Parejas-React)
-
 ### Ejecutar Localmente
 
 1. Clona el repositorio:
