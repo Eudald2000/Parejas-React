@@ -74,14 +74,14 @@ Un clásico juego de memoria donde debes encontrar pares de cartas iguales. ¡De
 
     - Extrae el contenido del ZIP en una carpeta de tu elección
 
-  3. **Desde la terminal de tu editor de codigo entra al directorio del proyecto**:
+  3. **Abre una terminal en tu editor de codigo entra al directorio del proyecto con:**:
 
   ```bash
     cd Parejas-React-main
   ```
 
   4. **Instala las dependencias, copia y ejecuta el siguiente comando desde tu terminal**
-  (Asegurate que la direccion del proyecto es /Parejas-React-main)
+  (Asegurate que la direccion del proyecto acaba en /Parejas-React-main)
   ```bash
     npm install
   ```
