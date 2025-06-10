@@ -10,9 +10,10 @@ import { Card } from './components/Card.jsx'
 
 function App () {
   // Lista base de imágenes únicas (deben estar en la carpeta public)
+  // App.jsx
   const imagenesBase = [
-    '/ainz.jpg', '/gojo.jpg', '/ichigo.jpg', '/itadori.jpg', '/luffy.jpg',
-    '/naruto.jpg', '/senku.jpg', '/sjw.jpg', '/tanjiro.jpg', '/killua.jpg'
+    'ainz.jpg', 'gojo.jpg', 'ichigo.jpg', 'itadori.jpg', 'luffy.jpg',
+    'naruto.jpg', 'senku.jpg', 'sjw.jpg', 'tanjiro.jpg', 'killua.jpg'
   ]
 
   // Estado principal que guarda todas las cartas del juego
